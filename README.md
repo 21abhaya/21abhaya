@@ -9,7 +9,9 @@
   "tech_stack": {
       "languages": ["python", "javascript-ish", "typescript-ish"]
       "frameworks": ["django", "fastapi", "NextJS"],
-      "databases": ["POSTGRESQL", "MYSQL"], 
+      "databases": ["POSTGRESQL", "MYSQL"],
+      "tools": ["git", "docker"],
+      "agentic_schtuff": ["gh_copilot", "copilot_cli"]
   }
   "hireable": true,
   "site": "OTW",
