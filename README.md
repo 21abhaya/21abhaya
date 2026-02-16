@@ -7,7 +7,7 @@
   "current_company": "Ajna Lab",
   "location": "Kathmandu, Nepal",
   "tech_stack": {
-      "languages": ["python", "javascript-ish", "typescript-ish"].
+      "languages": ["python", "javascript-ish", "typescript-ish"]
       "frameworks": ["django", "fastapi", "NextJS"],
       "databases": ["POSTGRESQL", "MYSQL"], 
   }
