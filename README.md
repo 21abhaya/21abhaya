@@ -6,7 +6,7 @@
   "role": "Software Engineer",
   "current_company": "Ajna Lab",
   "location": "Kathmandu, Nepal",
-  "tech_stack": ["python-django, javascript-ish, typescript-ish, jQuerry, "NextJS", postgres, mySQL]
+  "tech_stack": ["python-django", "postgres", "mySQL", "javascript-ish", "typescript-ish", "jQuerry-ish", "NextJS"]
   "hireable": true,
   "site": "OTW",
 }
