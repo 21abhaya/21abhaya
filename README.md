@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Abhaya 👋
 
-<!--
-**21abhaya/21abhaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Abhaya Gautam",
+  "role": "Software Engineer",
+  "current_company": "Ajna Lab",
+  "location": "Kathmandu, Nepal",
+  "tech_stack": ["python-django, javascript-ish, typescript-ish, jQuerry, "NextJS", postgres, mySQL]
+  "hireable": true,
+  "site": "OTW",
+}
+```
