@@ -11,7 +11,7 @@
       "frameworks": ["django", "fastapi", "NextJS"],
       "databases": ["POSTGRESQL", "MYSQL"],
       "tools": ["git", "docker"],
-      "agentic_schtuff": ["gh_copilot", "copilot_cli"]
+      "agentic_schtuff": ["gh_copilot", "copilot_cli", "OpenCode"]
   }
   "hireable": true,
   "site": "OTW",
